@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-spring-rest-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-spring-rest-microservice
+Branch: master
+Path (within repo): 
+sha: c63a4f3aaeb939acdbba010f553fbff480869769
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.example.urlBuilder'
+team-id='T1KHULA3E'
+name='UrlBuilder'
+template='treehorn-spring-rest-microservice'
+user-id='U1NQ01HNX'
+group_id='UrlBuilder'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='UrlBuilder'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='06 07 2016 '
+configuration_class_name='UrlBuilderConfiguration'
+package_path='com/example/urlBuilder'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+application_name='UrlBuilder'
+containerless_web_integration_test_name='UrlBuilderOutOfContainerIntegrationTests'
+application_class_name='UrlBuilderApplication'
+startup_test_name='UrlBuilderApplicationTests'
+web_integration_test_name='UrlBuilderWebIntegrationTests'
+creation_date='Wed Jul 06 2016 08:17:42 GMT+0000 (UTC)'
